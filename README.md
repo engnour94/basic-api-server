@@ -10,7 +10,7 @@ Nour Abu El-Enein
 
 - [Repo link](https://github.com/engnour94/basic-api-server)
 
-- [main Deployed heroku](https://dashboard.heroku.com/apps/basic-api-server-by-nour/deploy/github)
+- [main Deployed heroku](https://basic-api-server-by-nour.herokuapp.com/)
  
 ### Setup
 
