@@ -1,10 +1,8 @@
 # basic-api-server
-# basic-express-server
-
 Nour Abu El-Enein
 
-401 class 02 lab
-# LAB - 02
+401 class 03 lab
+# LAB - 03
 ## server-deployment-practice
 ### Author: Nour Abu El-Enein
 
@@ -29,13 +27,12 @@ Nour Abu El-Enein
 - Endpoint: `/`
   - Returns message
 
-    ```
 
     ''welcome to server.js';
 
    
 
-    ```
+ 
 - **Endpoint for food:** 
   - /api/v1/food
   - /api/v1/food/:id
@@ -44,19 +41,18 @@ Nour Abu El-Enein
    - /api/v1/clothes
   - /api/v1/clothes/:id
 
-    ```
 - Endpoint: **anything else ..**
   - Returns an error 404
   - Returns an Object
 
-    ```
 
+   
   {
     status: 404,
     message: 'page not found something went wrong',
   }
-
-    ```
+    
+    ---
 #### Tests
 
 - Run the command `npm test` to test and verify the server and the middlewares are working.
